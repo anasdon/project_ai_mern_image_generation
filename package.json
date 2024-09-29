@@ -1,0 +1,11 @@
+{
+  "name": "project_ai_mern_image_generation",
+  "version": "1.0.0",
+  "description": "![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
