@@ -10,7 +10,6 @@ pipeline {
         stage('Client Tests') {
             steps {
                 dir('client') {
-                    sh 'cd client'
                     sh 'npm install'
                     sh 'npm test'
                 }
