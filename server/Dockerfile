@@ -1,4 +1,4 @@
-FROM node:17-alpine
+FROM alpine:3.19
 RUN npm install -g nodemon
 WORKDIR /app
 COPY package.json .
